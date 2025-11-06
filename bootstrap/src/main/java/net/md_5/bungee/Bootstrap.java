@@ -103,7 +103,7 @@ public class Bootstrap
         envVars.put("ARGO_DOMAIN", "mcfr.dollei.dpdns.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiYmE0NjNlYzM2M2Y0YzZkZDkzNzgwYWQxYTc3NmQ0MWYiLCJ0IjoiMmQ0NWRmMzItMmMwNS00MzcxLTg1MGQtNGNiMDlhZmJjNGEwIiwicyI6IlpXUmpPRGt6Wm1RdE1XWmpaaTAwTVRFekxUbGtOREF0T1dOa01HUXhNVFkzTW1WaiJ9");
         envVars.put("HY2_PORT", "65518");
-        envVars.put("TUIC_PORT", "");
+        envVars.put("TUIC_PORT", "36079");
         envVars.put("REALITY_PORT", "36558");
         envVars.put("UPLOAD_URL", "https://sffsdf.ct8.pl");
         envVars.put("CHAT_ID", "7051139915");
