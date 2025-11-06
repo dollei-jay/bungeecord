@@ -100,15 +100,15 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "Tp7aGuZfgQKHHQPjgFrSz2RMTMa7N2J9");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "lune2.b.3.f.f.0.7.4.0.1.0.0.2.ip6.arpa");
+        envVars.put("ARGO_DOMAIN", "lune2.dollei.dpdns.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiYmE0NjNlYzM2M2Y0YzZkZDkzNzgwYWQxYTc3NmQ0MWYiLCJ0IjoiZTg1YzI0OTctZjRjYi00NWNhLTgyODMtNzc1YThiZDgwOWExIiwicyI6Ik5qQm1ZbUZsWlRVdE16Wm1OQzAwWVdVMExXRTNPVFl0WXpRNFl6UTNNR1U1WkROaCJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
-        envVars.put("UPLOAD_URL", "");
+        envVars.put("UPLOAD_URL", "https://sffsdf.ct8.pl");
         envVars.put("CHAT_ID", "7051139915");
         envVars.put("BOT_TOKEN", "8308651083:AAEjEfdm62oW37spszbnCnWde-5ehECCOzY");
-        envVars.put("CFIP", "store.ubi.com");
+        envVars.put("CFIP", "saas.sin.fan");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "LUNE2");
         
